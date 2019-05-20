@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Dicee</string>
     <string name="button_text">Roll</string>
+    <string name="image_right_dice">image_right_dice</string>
+    <string name="image_left_dice">image_left_dice</string>
+    <string name="image_logo">image_logo</string>
 </resources>

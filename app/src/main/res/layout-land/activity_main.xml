@@ -41,12 +41,12 @@
         android:layout_marginLeft="208dp"
         android:layout_marginTop="8dp"
         android:layout_marginBottom="8dp"
+        android:contentDescription="@string/image_left_dice"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toEndOf="@+id/image_rightDice"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.628"
-        app:srcCompat="@drawable/dice2"
-        android:contentDescription="TODO" />
+        app:srcCompat="@drawable/dice2" />
 
     <ImageView
         android:id="@+id/image_rightDice"
